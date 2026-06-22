@@ -4,7 +4,7 @@ A modern, responsive corporate website developed for **Eletech Trading Corporati
 
 ## 🌐 Live Demo
 
-https://eletechtradingcorporation.com
+https://eletechtradingcorp.com/
 
 ## 📌 Overview
 
