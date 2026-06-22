@@ -1,1 +1,1 @@
-Ascent Solutions is a modern business and technology platform built with React, TypeScript, Tailwind CSS, and Vite. It delivers a fast, responsive, and user-friendly digital experience through scalable architecture, clean design, and optimized performance for modern web solutions.
+
